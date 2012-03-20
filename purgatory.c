@@ -90,7 +90,7 @@ int main(int argc, char *argv[]) {
                 #endif
            break;
            default:
-                   printf("error: '-%c' is not valid.\n", (char)argv[0]);
+                   printf("error: '-%c' is not valid.\n", (char)c);
            break;
            
     };
