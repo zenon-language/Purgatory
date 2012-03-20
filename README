@@ -1,0 +1,4 @@
+Zenon Purger (Purgatory, this header is to be included with external projects, inorder to call
+functions from 'purgratory.c'.
+
+This program depends on ZENON and is distributed with it.
